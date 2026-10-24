@@ -1,0 +1,21 @@
+{
+  "name": "popi-theme",
+  "displayName": "Popi Theme",
+  "description": "A VSCode theme with pastel colours",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.140.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pastel Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pastel Theme-color-theme.json"
+      }
+    ]
+  }
+}
