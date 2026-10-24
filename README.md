@@ -1,31 +1,31 @@
-# Popi Theme
+*Leer en [Español](README.es.md) | Llegir en [Valencià](README.val.md)*
 
-Un tema oscuro con tonos pastel diseñado para reducir la fatiga visual y mantener una estética elegante en largas sesiones de programación.
+# Popi Pastel Theme
 
-## 📸 Capturas de pantalla
+A dark theme with pastel tones designed to reduce eye strain and maintain an elegant aesthetic during long programming sessions.
+
+## 📸 Screenshots
 
 ![Screenshot 1](images/screenshot1.png)
 
-
 ![Screenshot 2](images/screenshot2.png)
 
+## 🚀 Installation
 
-## 🚀 Instalación
+1. Open Visual Studio Code.
+2. Go to the Extensions view (`Ctrl+Shift+X` on Windows/Linux, `Cmd+Shift+X` on macOS).
+3. Search for **Popi Pastel Theme**.
+4. Click **Install**.
+5. Press `Ctrl+K Ctrl+T` (`Cmd+K Cmd+T` on macOS) and select the theme.
 
-1. Abre Visual Studio Code.
-2. Ve a la vista de Extensiones (`Ctrl+Shift+X` en Windows/Linux, `Cmd+Shift+X` en macOS).
-3. Busca **Popi Theme**.
-4. Haz clic en **Instalar**.
-5. Presiona `Ctrl+K Ctrl+T` (`Cmd+K Cmd+T` en macOS) y selecciona el tema.
+## ✨ Features
 
-## ✨ Características
+- Deep dark background that highlights syntax without glaring.
+- Carefully selected pastel color palette (pink, mauve, soft cyan).
+- High contrast in interface elements (terminal, file explorer).
 
-* Fondo oscuro profundo que resalta la sintaxis sin deslumbrar.
-* Paleta de colores pastel cuidadosamente seleccionada (rosa, malva, cian suave).
-* Alto contraste en los elementos de la interfaz (terminal, explorador de archivos).
+## 🛠️ Issues and Suggestions
 
-## 🛠️ Problemas y Sugerencias
+If you find any contrast issues or want to suggest improvements, please open an [Issue](https://github.com/tu-usuario/tu-repo/issues) in the GitHub repository.
 
-Si encuentras algún problema de contraste o quieres sugerir mejoras, por favor abre un [Issue](https://github.com/tu-usuario/tu-repo/issues) en el repositorio de GitHub.
-
-Muchas Gracias.
+Thank you very much.
