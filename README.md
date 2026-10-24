@@ -5,10 +5,10 @@ Un tema oscuro con tonos pastel diseñado para reducir la fatiga visual y manten
 ## 📸 Capturas de pantalla
 
 ![Screenshot 1](images/screenshot1.png)
-*(Recomendación: Muestra aquí un archivo de JavaScript/TypeScript)*
+
 
 ![Screenshot 2](images/screenshot2.png)
-*(Recomendación: Muestra aquí un archivo de HTML/CSS o Python)*
+
 
 ## 🚀 Instalación
 
