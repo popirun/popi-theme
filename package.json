@@ -4,11 +4,19 @@
   "description": "A VSCode theme with pastel colours",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.140.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "pastel",
+    "dark",
+    "popi"
+  ],
+  "icon": "images/icon.png",
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
@@ -21,5 +29,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/popirun/popi-theme.git"
-  }
+  },
+  "publisher": "Popirun"
 }
