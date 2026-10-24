@@ -2,7 +2,7 @@
   "name": "popi-theme",
   "displayName": "Popi Pastel Theme",
   "description": "A VSCode theme with pastel colours",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.80.0"
   },
